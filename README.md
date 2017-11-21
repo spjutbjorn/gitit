@@ -25,3 +25,4 @@ To show the resulting look of .md files
 Bash for windows
 
 christoffer
+Kristian
